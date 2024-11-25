@@ -46,3 +46,9 @@ The CSS styles the game interface for readability and interest.
 
 5. **Event Listeners**:
    - Buttons trigger `game()` with corresponding choices.
+  
+---
+### **Screenshots**
+![image](https://github.com/user-attachments/assets/ca78eca3-b2fb-48b8-a294-7923ab5a6567)
+
+
